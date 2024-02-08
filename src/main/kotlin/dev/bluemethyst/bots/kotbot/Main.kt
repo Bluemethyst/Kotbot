@@ -18,7 +18,7 @@ fun main(args: Array<String>) {
 
     bot(token["TOKEN"]) {
         presence {
-            playing("In Intellij")
+            watching("longgg jvm errors")
         }
         onStart {
             val guilds = kord.guilds.toList()

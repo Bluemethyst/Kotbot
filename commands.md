@@ -5,6 +5,11 @@
 |-------------|--------------------------------|
 | [Argument]  | Argument is not required.      |
 
+## Api
+| Commands | Arguments | Description     |
+|----------|-----------|-----------------|
+| Api      |           | Run an api test |
+
 ## Basics
 | Commands | Arguments | Description             |
 |----------|-----------|-------------------------|
