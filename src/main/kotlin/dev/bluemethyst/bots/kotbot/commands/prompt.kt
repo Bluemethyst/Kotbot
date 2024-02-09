@@ -8,6 +8,7 @@ import me.jakejmattson.discordkt.prompts.promptModal
 import me.jakejmattson.discordkt.prompts.promptSelect
 import me.jakejmattson.discordkt.util.toPartialEmoji
 
+
 fun promptCommands() = subcommand("Prompt") {
     sub("Modal", "Create a prompt with a modal") {
         execute {

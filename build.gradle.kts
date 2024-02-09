@@ -7,6 +7,7 @@ group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
+    maven(url = "https://m2.dv8tion.net/releases")
     mavenCentral()
 }
 
@@ -15,6 +16,7 @@ dependencies {
     implementation("me.jakejmattson:DiscordKt:0.24.0")
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
+    implementation("com.sedmelluq:lavaplayer:1.3.93")
 }
 
 tasks.test {

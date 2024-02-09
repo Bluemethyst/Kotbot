@@ -25,6 +25,11 @@
 | Hello    |           | A 'Hello World' command |
 | Ping     |           | Check the bots latency  |
 
+## Music
+| Commands | Arguments | Description                    |
+|----------|-----------|--------------------------------|
+| Play     | Link      | Play a Spotify or YouTube link |
+
 ## Utility
 | Commands | Arguments | Description          |
 |----------|-----------|----------------------|
