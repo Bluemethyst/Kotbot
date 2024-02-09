@@ -4,11 +4,19 @@
 | Symbol      | Meaning                        |
 |-------------|--------------------------------|
 | [Argument]  | Argument is not required.      |
+| /Category   | This is a subcommand group.    |
+
+## /Prompt
+| Commands | Arguments | Description                           |
+|----------|-----------|---------------------------------------|
+| Modal    |           | Create a prompt with a modal          |
+| Select   |           | Create a prompt with a selection menu |
 
 ## Api
-| Commands | Arguments | Description     |
-|----------|-----------|-----------------|
-| Api      |           | Run an api test |
+| Commands | Arguments | Description                         |
+|----------|-----------|-------------------------------------|
+| Joke     |           | Get a random joke!                  |
+| Run-Api  | API-Link  | Test a GET request on a desired API |
 
 ## Basics
 | Commands | Arguments | Description             |
